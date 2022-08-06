@@ -2,8 +2,6 @@
 <h3 align="center">✨I graduated from Fırat University Digital Forensics Engineering.✨</h3>
 <br>
 
-<p>- 🌱 I’m currently working with **React.js and anything related with JavaScript.** </p>   
-<p>- 📝 I regularly write articles on [My Medium Page](https://medium.com/@aysegl.istek)  </p>   
 <p>- 💬 How to reach me **aysegl.istek@gmail.com**</p>     
 
 <br>
