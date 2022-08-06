@@ -1,5 +1,12 @@
 ### Hi 👋, I'm Ayşegül.
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://www.linkedin.com/in/ay%C5%9Feg%C3%BCl-istek-30055819a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ayseglistek" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/ay%C5%9Feg%C3%BCl-istek-30055819a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ayseglistek" height="30" width="40" /></a>
+<a href="https://www.instagram.com/aysegl.istek/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ayseglistek" height="30" width="40" /></a>
+</p>
+
 <!--
 **ayseglistek/ayseglistek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
