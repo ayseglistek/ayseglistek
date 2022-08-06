@@ -1,11 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ayşegül.</h1>
 <h3 align="center">✨I graduated from Fırat University Digital Forensics Engineering.✨</h3>
-<br>
-
-<p> 
-    - 💬 How to reach me aysegl.istek@gmail.com 
-</p>     
-
+  
 <br>
     <h3 align="left">👯 Connect with me:</h3>
     <p align="left">
