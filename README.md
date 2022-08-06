@@ -3,12 +3,11 @@
 <br>
 
 <p>
-        - 🌱 I’m currently working with **React.js and anything related with JavaScript.**
-        
-        - 📝 I regularly write articles on [My Medium Page](https://medium.com/@aysegl.istek)        
-     
-        - 💬 How to reach me **aysegl.istek@gmail.com**
-</p>        
+- 🌱 I’m currently working with **React.js and anything related with JavaScript.**   
+- 📝 I regularly write articles on [My Medium Page](https://medium.com/@aysegl.istek)    
+- 💬 How to reach me **aysegl.istek@gmail.com**
+</p>     
+
 <br>
     <h3 align="left">👯 Connect with me:</h3>
     <p align="left">
