@@ -2,7 +2,7 @@
 <h3 align="center">✨I graduated from Fırat University Digital Forensics Engineering.✨</h3>
   
 <br>
-    <h3 align="left">👯 Connect with me:</h3>
+    <h3 align="left">💬 Connect with me:</h3>
     <p align="left">
         <a href="https://www.linkedin.com/in/ay%C5%9Feg%C3%BCl-istek-30055819a/" target="blank"><img align="center"
                 src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
