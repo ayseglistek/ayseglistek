@@ -2,7 +2,7 @@
 <h3 align="center">✨I graduated from Fırat University Digital Forensics Engineering.✨</h3>
 <br>
 
-<p>- 💬 How to reach me **aysegl.istek@gmail.com**</p>     
+<p> 💬 How to reach me **[aysegl.istek@gmail.com](https://mail.google.com/mail/u/0/#inbox)** </p>     
 
 <br>
     <h3 align="left">👯 Connect with me:</h3>
